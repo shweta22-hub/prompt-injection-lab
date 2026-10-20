@@ -1,5 +1,7 @@
 # Prompt Injection Lab: Red Team Report
 
+   **Play it live:** https://shweta22-hub.github.io/prompt-injection-lab/
+
 **Author:** Shweta
 **Date:** 20 October 2026
 **Target:** Five simulated chatbots (rule-based, not real LLMs), each guarding a secret with a stronger defense
