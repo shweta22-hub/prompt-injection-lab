@@ -6,7 +6,7 @@
 **Date:** 20 October 2026
 **Target:** Five simulated chatbots (rule-based, not real LLMs), each guarding a secret with a stronger defense
 **Scope:** Direct and indirect prompt injection, mapped to the OWASP Top 10 for LLM Applications
-**Tool:** [Prompt Injection Lab](./index.html), a browser-based game
+**Tool:** [Prompt Injection Lab]https://shweta22-hub.github.io/prompt-injection-lab/, a browser-based game
 
 ## Summary
 
